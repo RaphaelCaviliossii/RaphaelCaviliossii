@@ -25,7 +25,7 @@ Habilidades em:
 <a href="https://www.instagram.com/raphaelcaviliossi/">
 <img align="left" alt="logo-instagram" width="30px" src="https://www.svgrepo.com/show/520798/instagram.svg" />
 </a>
-<a href="www.linkedin.com/in/raphael-caviliosi-9b8b63304">
+<a href="https://www.linkedin.com/in/raphael-caviliosi-9b8b63304">
 <img align="left" alt="Linkedin" width="30px" src="https://www.svgrepo.com/show/504546/linkedin.svg" />
 </a>
 </p>
