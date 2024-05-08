@@ -4,7 +4,7 @@ Me Raphael Caviliossi tenho 38 anos moro em São José do Rio Preto-SP
 
 Programador / Desenvolvedor Junior Full Stack
 
-Venho me dedicando na Formação DevClub para Programador FullStack.
+Venho me dedicando na Formação DevClub para Programador / Desenvolvedor FullStack.
 Estou aprimorando minhas habilidades técnicas tenho fácilidade em aprendizado.
 
 Busco sempre evoluir e ser um profissional mais completo.
